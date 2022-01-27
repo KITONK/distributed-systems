@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<doc>
+    <id>3</id>
+    <fam>Иванов</fam>
+    <name>Иван</name>
+    <otc>Иванович</otc>
+    <dateb>10-03-2005</dateb>
+    <datep>10-03-2005</datep>
+    <datev>10-03-2005</datev>
+    <datebegin>09-06-2009</datebegin>
+    <dateend>10-03-2005</dateend>
+    <vdolid>1</vdolid>
+    <specid>1</specid>
+    <klavid>1</klavid>
+    <stav>2.0</stav>
+    <progid>1</progid>
+</doc>

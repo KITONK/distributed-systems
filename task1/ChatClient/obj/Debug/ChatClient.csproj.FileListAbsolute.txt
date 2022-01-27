@@ -1,0 +1,7 @@
+D:\Downloads\rozpodileni\lab1\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Downloads\rozpodileni\lab1\ChatClient\bin\Debug\ChatClient.exe
+D:\Downloads\rozpodileni\lab1\ChatClient\bin\Debug\ChatClient.pdb
+D:\Downloads\rozpodileni\lab1\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+D:\Downloads\rozpodileni\lab1\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Downloads\rozpodileni\lab1\ChatClient\obj\Debug\ChatClient.exe
+D:\Downloads\rozpodileni\lab1\ChatClient\obj\Debug\ChatClient.pdb

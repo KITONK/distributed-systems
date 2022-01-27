@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<papers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation = "schema.xsd">
+    <paper>
+        <title>t</title>
+        <type>t</type>
+        <monthly>true</monthly>
+        <chars>
+            <char>
+                <color>true</color>
+                <numberOfPage>2</numberOfPage>
+                <glossy>true</glossy>
+                <subscriptionIndex>123</subscriptionIndex>
+            </char>
+        </chars>
+    </paper>
+    <paper>
+        <title>e</title>
+        <type>e</type>
+        <monthly>true</monthly>
+        <chars>
+            <char>
+                <color>true</color>
+                <numberOfPage>1</numberOfPage>
+                <glossy>false</glossy>
+                <subscriptionIndex>1324</subscriptionIndex>
+            </char>
+        </chars>
+    </paper>
+</papers>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country ip_start="2.6.190.56" ip_end="2.6.190.63" flag="GB">United Kingdom</country>
+    <country ip_start="3.0.0.0" ip_end="4.17.135.31" flag="US">United States</country>
+    <country ip_start="4.17.135.32" ip_end="4.17.135.63" flag="CA">Canada</country>
+    <country ip_start="4.17.135.64" ip_end="4.17.142.255" flag="US">United States</country>
+    <country ip_start="4.17.143.0" ip_end="4.17.143.15" flag="CA">Canada</country>
+</countries>

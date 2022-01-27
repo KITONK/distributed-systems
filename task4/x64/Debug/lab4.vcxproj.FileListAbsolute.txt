@@ -1,0 +1,4 @@
+D:\Downloads\rozpodileni\lab4\lab4\x64\Debug\lab4.exe
+D:\Downloads\rozpodileni\lab4\lab4\x64\Debug\lab4.pdb
+D:\Downloads\rozpodileni\lab4\x64\Debug\lab4.exe
+D:\Downloads\rozpodileni\lab4\x64\Debug\lab4.pdb
